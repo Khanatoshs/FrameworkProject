@@ -211,6 +211,9 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Generated forestry pipeline outputs
+output/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
